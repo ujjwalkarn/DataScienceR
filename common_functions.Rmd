@@ -15,7 +15,7 @@ with(mydata, t.test(y ~ group))
 
 Please look at other examples [here](http://stackoverflow.com/questions/21827572/what-is-the-difference-between-with-and-within-in-r) and [here](http://www.magesblog.com/2012/01/say-it-in-r-with-by-apply-and-friends.html).
 
-## By
+## by
 The by( ) function applys a function to each level of a factor or factors. 
 It is similar to BY processing in SAS.
 
