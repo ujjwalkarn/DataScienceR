@@ -1,6 +1,1 @@
----
-title: "Introduction to several R packages"
-output: html_document
----
-
-This repository is a tutorial for several R packages.
+This repository servers as a reference guide for several R functions and packages. It also includes some common codes that are needed while using R for any machine learning task. I will keep adding more as and when I find something interesting.
