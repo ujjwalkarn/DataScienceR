@@ -12,7 +12,6 @@ DATA= in SAS.
 with(mydata, t.test(y ~ group))
 
 ```
-
 Please look at other examples [here](http://stackoverflow.com/questions/21827572/what-is-the-difference-between-with-and-within-in-r) and [here](http://www.magesblog.com/2012/01/say-it-in-r-with-by-apply-and-friends.html).
 
 ## by()
@@ -26,6 +25,7 @@ It is similar to BY processing in SAS.
 by(mydata, mydatat$byvar, function(x) mean(x))
 ```
 
+Please look [here](http://www.magesblog.com/2012/01/say-it-in-r-with-by-apply-and-friends.html) for more details.
 
 ## do.call()
 do.call calls a function with a list of arguments, lapply applies a function to each element of the list
