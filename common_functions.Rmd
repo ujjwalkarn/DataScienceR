@@ -1,5 +1,5 @@
 ---
-  title: "Introduction to several commonly uised functions in R"
+  "Introduction to several commonly used functions in R"
 --
 
 ## with
