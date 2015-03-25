@@ -1,5 +1,5 @@
 ---
-  "Introduction to several commonly used functions in R"
+  Introduction to several commonly used functions in R
 --
 
 ## with()
