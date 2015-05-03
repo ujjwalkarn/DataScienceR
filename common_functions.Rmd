@@ -43,3 +43,38 @@ do.call("+",list(4,5))
 #9
 ```
 More examples [here](https://stat.ethz.ch/R-manual/R-devel/library/base/html/do.call.html).
+
+##more()
+more() is a user-defined function that is helpful in printing out a large object.
+
+```{r}
+#to print out an object such as data.frame mydf 20 lines at a time, use:
+more(mydf)
+
+#where more() is defined as
+
+more <- function(expr, lines=20) {
+  out <- capture.output(expr)
+  n <- length(out)
+  i <- 1
+  while( i < n ) {
+    j <- 0
+    while( j < lines && i <= n ) {
+      cat(out[i],"\n")
+      j <- j + 1
+      i <- i + 1
+    }
+    if(i<n){
+      rl <- readline()
+      if( grepl('^ *q', rl, ignore.case=TRUE) ) i <- n
+      if( grepl('^ *t', rl, ignore.case=TRUE) ) i <- n - lines + 1
+      if( grepl('^ *[0-9]', rl) ) i <- as.numeric(rl)/10*n + 1
+    }
+  }
+  invisible(out)
+}
+```
+Taken from [here](http://stackoverflow.com/questions/21610468/pause-print-of-large-object-when-it-fills-the-screen)
+
+
+
