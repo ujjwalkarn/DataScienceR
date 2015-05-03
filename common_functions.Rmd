@@ -45,7 +45,7 @@ do.call("+",list(4,5))
 More examples [here](https://stat.ethz.ch/R-manual/R-devel/library/base/html/do.call.html).
 
 ##more()
-more() is a user-defined function that is helpful in printing out a large object.
+more() is a user-defined function that is helpful in printing out a large object. Taken from [here](http://stackoverflow.com/questions/21610468/pause-print-of-large-object-when-it-fills-the-screen).
 
 ```{r}
 #to print out an object such as data.frame mydf 20 lines at a time, use:
@@ -74,7 +74,14 @@ more <- function(expr, lines=20) {
   invisible(out)
 }
 ```
-Taken from [here](http://stackoverflow.com/questions/21610468/pause-print-of-large-object-when-it-fills-the-screen)
+
+##options()
+options() can be used to increase the limit for max.print in R. More info [here](http://stackoverflow.com/questions/6758727/how-to-increase-the-limit-for-max-print-in-r).
+
+```r
+options(max.print=1000000)
+```
+
 
 
 
