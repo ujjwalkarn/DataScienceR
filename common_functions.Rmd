@@ -82,6 +82,9 @@ options() can be used to increase the limit for max.print in R. More info [here]
 options(max.print=1000000)
 ```
 
-
+##To check which columns in the data frame `df` have missing values
+```r
+colnames(df)[colSums(is.na(df)) > 0]
+```
 
 
