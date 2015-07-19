@@ -1,1 +1,1 @@
-This repository servers as a reference guide for several R functions and packages. It also includes some common codes that are needed while using R for any machine learning task. I will keep adding more as and when I find something interesting.
+This repository servers as a reference guide for several common data analysis tasks as well as some R functions and packages.
