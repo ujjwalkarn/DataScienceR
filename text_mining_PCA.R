@@ -31,12 +31,3 @@ groups <- cutree(fit, k=3)
 table(groups)
 mydf <- dtmDF
 mydf <- cbind(dtmDF,groups)
-
-
-
-
-
-
-
-
-
