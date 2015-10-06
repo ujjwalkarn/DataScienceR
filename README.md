@@ -12,6 +12,9 @@ Time Series Analysis:
 - [Time Series Forecasting Book](https://www.otexts.org/fpp)
 - [Time Series Analysis in R](http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/src/timeseries.html)
 
+Bayesian Inference:
+- [Packages for Bayesian Inference](https://github.com/ujjwalkarn/awesome-R)
+
 Machine Learning:
 - [Using R for Multivariate Analysis](http://little-book-of-r-for-multivariate-analysis.readthedocs.org/en/latest/src/multivariateanalysis.html)
 - [Machine Learning Using R](https://www.otexts.org/sfml)
