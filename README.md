@@ -9,3 +9,5 @@ Also, check out these links for more resources on R:
 - [Using R for Multivariate Analysis](http://little-book-of-r-for-multivariate-analysis.readthedocs.org/en/latest/src/multivariateanalysis.html)
 - [Machine Learning Using R](https://www.otexts.org/sfml)
 - [Using R for Biomedical Statistics](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/src/biomedicalstats.html)
+- [Rob J Hyndman's R Blog](http://robjhyndman.com/hyndsight/r/)
+- [Simple R Tricks and Tools](http://robjhyndman.com/hyndsight/simpler/), [Video](https://www.youtube.com/watch?v=Toc__W7L2Qo)
