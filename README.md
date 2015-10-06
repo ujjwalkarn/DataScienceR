@@ -40,5 +40,5 @@ Statistics:
 - [Using R for Biomedical Statistics (Online Book)](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/src/biomedicalstats.html)
 
 Useful R Packages:
-- [dplyr tutorial 1],(http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/) [dplyr tutorial 2](http://www.dataschool.io/dplyr-tutorial-part-2/)
+- [dplyr tutorial 1](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/), [dplyr tutorial 2](http://www.dataschool.io/dplyr-tutorial-part-2/)
 - [plyr, stringr, reshape2 tutorial](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555)
