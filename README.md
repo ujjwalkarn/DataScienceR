@@ -15,7 +15,6 @@ Cheatsheets:
 - [Shiny](http://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
 - [devtools](https://www.rstudio.com/wp-content/uploads/2015/06/devtools-cheatsheet.pdf)
 - [markdown](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), [reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-- [All](https://www.rstudio.com/resources/cheatsheets/#)
 
 Time Series Analysis:
 - [Time Series Forecasting (Online Book)](https://www.otexts.org/fpp)
