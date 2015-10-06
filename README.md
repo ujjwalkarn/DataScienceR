@@ -35,6 +35,10 @@ Bayesian Inference:
 Machine Learning:
 - [Using R for Multivariate Analysis (Online Book)](http://little-book-of-r-for-multivariate-analysis.readthedocs.org/en/latest/src/multivariateanalysis.html)
 - [Machine Learning Using R (Online Book)](https://www.otexts.org/sfml)
+- [Linear Regression and Regularization Code](http://rpubs.com/justmarkham/linear-regression-salary)
+
+Visualisation:
+- [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
 
 Statistics:
 - [Using R for Biomedical Statistics (Online Book)](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/src/biomedicalstats.html)
@@ -42,3 +46,4 @@ Statistics:
 Useful R Packages:
 - [dplyr tutorial 1](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/), [dplyr tutorial 2](http://www.dataschool.io/dplyr-tutorial-part-2/)
 - [plyr, stringr, reshape2 tutorial](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555)
+- [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
