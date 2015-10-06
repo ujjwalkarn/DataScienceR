@@ -1,7 +1,8 @@
 This repository serves as a reference guide for several common data analysis tasks as well as some R functions and packages.
 
-Also, check out these links for more awesome resources on R:
+Also, check out these links for more resources on R:
 
+- [Awesome R frameworks, packages and software](https://github.com/ujjwalkarn/awesome-R)
 - [Data Mining with R](https://github.com/ujjwalkarn/Data-Mining-With-R)
 - [Time Series Forecasting Using R](https://www.otexts.org/fpp)
 - [Time Series Analysis in R](http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/src/timeseries.html)
