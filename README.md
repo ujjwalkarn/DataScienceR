@@ -16,6 +16,7 @@ Also, check out these links for more resources on R:
 - [Shiny](http://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
 - [devtools](https://www.rstudio.com/wp-content/uploads/2015/06/devtools-cheatsheet.pdf)
 - [markdown](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), [reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- [Data Exploration](http://www.analyticsvidhya.com/blog/2015/10/cheatsheet-11-steps-data-exploration-with-codes/)
 
 ##Reference Slides
 - [Awesome R Reference Card](https://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
@@ -47,3 +48,6 @@ Also, check out these links for more resources on R:
 - [dplyr tutorial 1](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/), [dplyr tutorial 2](http://www.dataschool.io/dplyr-tutorial-part-2/)
 - [plyr, stringr, reshape2 tutorial](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555)
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
+
+##Code Snippets
+- [Convert List to Data Frame](http://stackoverflow.com/questions/4227223/r-list-to-data-frame)
