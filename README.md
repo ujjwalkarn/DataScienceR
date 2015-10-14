@@ -9,6 +9,7 @@ Also, check out these links for more resources on R:
 - [Simple R Tricks and Tools](http://robjhyndman.com/hyndsight/simpler/) [(Video)](https://www.youtube.com/watch?v=Toc__W7L2Qo)
 - [RStudio GitHub Repo](https://github.com/rstudio/)
 - [Tidying Messy Data in R](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555)
+- [Baseball Research with R](http://www.hardballtimes.com/a-short-ish-introduction-to-using-r-for-baseball-research)
 
 ##Cheatsheets
 - [Data Wrangling](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
