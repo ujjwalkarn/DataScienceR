@@ -37,6 +37,7 @@ Also, check out these links for more resources on R:
 - [Using R for Multivariate Analysis (Online Book)](http://little-book-of-r-for-multivariate-analysis.readthedocs.org/en/latest/src/multivariateanalysis.html)
 - [Machine Learning Using R (Online Book)](https://www.otexts.org/sfml)
 - [Linear Regression and Regularization Code](http://rpubs.com/justmarkham/linear-regression-salary)
+- [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 
 ##Visualisation
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
