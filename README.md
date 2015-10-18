@@ -3,7 +3,7 @@ This repository serves as a reference guide for several common data analysis tas
 Also, check out these links for more resources on R:
 
 ##General Stuff
-- [R vx Python](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+- [R vs Python](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 - [Awesome R resources](https://github.com/ujjwalkarn/awesome-R)
 - [Data Mining with R](https://github.com/ujjwalkarn/Data-Mining-With-R)
 - [Rob J Hyndman's R Blog](http://robjhyndman.com/hyndsight/r/)
