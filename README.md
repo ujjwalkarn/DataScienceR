@@ -41,6 +41,10 @@ Also, check out these links for more resources on R:
 - [Linear Regression and Regularization Code](http://rpubs.com/justmarkham/linear-regression-salary)
 - [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 
+##Sentiment Analysis
+- [qdap package](https://github.com/trinker/qdap)
+- [sentimentr package](https://github.com/trinker/sentimentr)
+
 ##Visualisation
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
 
