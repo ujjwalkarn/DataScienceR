@@ -42,8 +42,12 @@ Also, check out these links for more resources on R:
 - [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 
 ##Sentiment Analysis
-- [qdap package](https://github.com/trinker/qdap)
+- [qdap package](https://github.com/trinker/qdap), [code](http://stackoverflow.com/questions/22774913/estimating-document-polarity-using-rs-qdap-package-without-sentsplit)
 - [sentimentr package](https://github.com/trinker/sentimentr)
+- [tm.plugin.sentiment package](https://github.com/mannau/tm.plugin.sentiment)
+- [Packages other than sentiment](http://stackoverflow.com/questions/15194436/is-there-any-other-package-other-than-sentiment-to-do-sentiment-analysis-in-r)
+- [Sentiment Analysis and Opinion Mining](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+- [tm_term_score](http://www.inside-r.org/packages/cran/tm/docs/tm_term_score)
 
 ##Visualisation
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
