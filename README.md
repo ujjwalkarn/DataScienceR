@@ -12,6 +12,9 @@ Also, check out these links for more resources on R:
 - [Tidying Messy Data in R](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555)
 - [Baseball Research with R](http://www.hardballtimes.com/a-short-ish-introduction-to-using-r-for-baseball-research)
 
+##Learning R
+- [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
+
 ##Cheatsheets
 - [Data Wrangling](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 - [ggplot2](https://www.rstudio.com/wp-content/uploads/2015/08/ggplot2-cheatsheet.pdf)
