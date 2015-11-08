@@ -31,6 +31,10 @@ Also, check out these links for more resources on R:
 - [Regression and Classification](https://78462f86-a-e2d7344e-s-sites.googlegroups.com/a/rdatamining.com/www/docs/RDataMining-slides-regression-classification.pdf?attachauth=ANoY7cq0yqcj_65pafTfUqHazTYvp4E4r-5OB1kLv3swVKJhVydaJ0YU5yEPiOciQC0k_P1QzO6z1vD0r9E05KU8y7Mn6NTesQOOq_mmwlMqAe7D2mnqkHZBqFT6tk2hJ3g3fK40mvfyU5ggoGMxMYn9nVhihKwcIYJy9A8zlbFo4r9a35kpTDr6jJjAw5eQwSEMe-bvT5iyZuyMS7QS-tvlgHjJ40ZGhPro7GcWXfb7qqaPeTe9NyeU7MxAy2Z_lAzxn0vSnqe6&attredirects=0)
 - [Text Mining on Twitter Data](https://78462f86-a-e2d7344e-s-sites.googlegroups.com/a/rdatamining.com/www/docs/RDataMining-slides-text-mining.pdf?attachauth=ANoY7cquEwmhHFNHxiKNhv6C2wquNdaib8A_BeTRFaGFXZ2deivENdTK-GS7mSZjermC7b_-L6KtCWhfF1ZOzOF9XaLkIaw6InCEnjdO1fWUhJFujaGwwbcbExJKEVuMmwlBX_SDUFZYgjuTbIb2llgKRMQc3Dd241HNZHTvGVuPG26vHKN_jU_WoEj7uIilRJWFTDvNrZWGWrvImWr0aCNou56qAB-zmBG_cvRS4QOQroiEetLpR7k%3D&attredirects=0)
 
+##Neural Networks in R
+- [Visualizing Neural Nets in R](https://beckmw.wordpress.com/2013/11/14/visualizing-neural-networks-in-r-update/)
+- [nnet package](http://stackoverflow.com/questions/21788817/r-nnet-with-a-simple-example-of-2-classes-with-2-variables)
+
 ##Time Series Analysis
 - [Time Series Forecasting (Online Book)](https://www.otexts.org/fpp)
 - [Time Series Analysis in R](http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/src/timeseries.html)
