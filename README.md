@@ -15,6 +15,16 @@ Also, check out these links for more resources on R:
 ##Learning R
 - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
 
+##Caret Package
+- [rf](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore)
+- [Ensembling Models with caret](http://stats.stackexchange.com/questions/27361/stacking-ensembling-models-with-caret)
+- [Model Training and Tuning](http://topepo.github.io/caret/training.html)
+- [Caret Model List](http://topepo.github.io/caret/modelList.html)
+- [relationship-between-data-splitting-and-traincontrol](http://stackoverflow.com/questions/14968874/caret-relationship-between-data-splitting-and-traincontrol)
+- [Specify model generation parameters](http://stackoverflow.com/questions/10498477/carettrain-specify-model-generation-parameters?lq=1)
+- [Tutorial](https://www.r-project.org/nosvn/conferences/useR-2013/Tutorials/kuhn/user_caret_2up.pdf), [Paper](www.jstatsoft.org/article/view/v028i05/v28i05.pdf)
+- [Ensembling models with R](http://amunategui.github.io/blending-models/), [Ensembling Regression Models in R](http://stats.stackexchange.com/questions/26790/ensembling-regression-models)
+
 ##Cheatsheets
 - [Data Wrangling](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 - [ggplot2](https://www.rstudio.com/wp-content/uploads/2015/08/ggplot2-cheatsheet.pdf)
