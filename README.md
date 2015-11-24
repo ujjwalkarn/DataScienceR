@@ -3,6 +3,7 @@ This repository serves as a reference guide for several common data analysis tas
 Also, check out these links for more resources on R:
 
 ##General Stuff
+- [**awesome-R**](https://github.com/qinwf/awesome-R)
 - [R vs Python](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 - [**R Resources GitHub**](https://github.com/binga/DataScienceArsenal/blob/master/r-resources.md)
 - [Awesome R resources](https://github.com/ujjwalkarn/awesome-R)
