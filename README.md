@@ -50,6 +50,8 @@ Also, check out these links for more resources on R:
 ##Time Series Analysis
 - [Time Series Forecasting (Online Book)](https://www.otexts.org/fpp)
 - [Time Series Analysis in R](http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/src/timeseries.html)
+- [Components of Time Series Data](https://www.linkedin.com/pulse/component-time-series-data-jeffrey-strickland-ph-d-cmsp)
+- [Unobserved Component Models using R](https://www.linkedin.com/pulse/unobserved-component-models-r-jeffrey-strickland-ph-d-cmsp)
 
 ##Bayesian Inference
 - [Packages for Bayesian Inference](https://github.com/ujjwalkarn/awesome-R#bayesian)
