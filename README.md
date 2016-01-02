@@ -72,6 +72,7 @@ Also, check out these links for more resources on R:
 
 ##Visualisation
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
+- [SHINY EXAMPLES](https://github.com/rstudio/shiny-examples)
 
 ##Statistics
 - [Using R for Biomedical Statistics (Online Book)](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/src/biomedicalstats.html)
