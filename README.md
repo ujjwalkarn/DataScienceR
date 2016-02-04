@@ -62,7 +62,8 @@ Also, check out these links for more resources on R:
 - [Machine Learning Using R (Online Book)](https://www.otexts.org/sfml)
 - [Linear Regression and Regularization Code](http://rpubs.com/justmarkham/linear-regression-salary)
 - [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
-
+- [**Multinomial and Ordinal Logistic Regression in R**](http://www.analyticsvidhya.com/blog/2016/02/multinomial-ordinal-logistic-regression/)
+ 
 ##Sentiment Analysis
 - [qdap package](https://github.com/trinker/qdap), [code](http://stackoverflow.com/questions/22774913/estimating-document-polarity-using-rs-qdap-package-without-sentsplit)
 - [sentimentr package](https://github.com/trinker/sentimentr)
