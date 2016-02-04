@@ -16,6 +16,7 @@ Also, check out these links for more resources on R:
 
 ##Learning R
 - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
+- [**MANY R PROGRAMMING TUTORIALS**](http://www.listendata.com/p/r-programming-tutorials.html)
 
 ##Caret Package
 - [rf](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore)
