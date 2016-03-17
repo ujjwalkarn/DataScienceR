@@ -14,6 +14,7 @@ Also, check out these links for more resources on R:
 - [Tidying Messy Data in R](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555)
 - [Baseball Research with R](http://www.hardballtimes.com/a-short-ish-introduction-to-using-r-for-baseball-research)
 - [**600 websites about R**](http://www.datasciencecentral.com/profiles/blogs/600-websites-about-r)
+- [Implementation of 17 classification algorithms in R](http://www.datasciencecentral.com/profiles/blogs/implemetation-of-17-classification-algorithms-in-r)
 
 ##Learning R
 - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
