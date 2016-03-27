@@ -76,6 +76,10 @@ Also, check out these links for more resources on R:
 - [Sentiment Analysis and Opinion Mining](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 - [tm_term_score](http://www.inside-r.org/packages/cran/tm/docs/tm_term_score)
 
+- [**vaderSentiment Paper**](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf), [**vaderSentiment code**](https://github.com/cjhutto/vaderSentiment)
+
+
+
 ##Visualisation
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
 - [SHINY EXAMPLES](https://github.com/rstudio/shiny-examples)
