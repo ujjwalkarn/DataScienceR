@@ -91,6 +91,7 @@ Also, check out these links for more resources on R:
 - [dplyr tutorial 1](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/), [dplyr tutorial 2](http://www.dataschool.io/dplyr-tutorial-part-2/)
 - [plyr, stringr, reshape2 tutorial](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555)
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
+- [A speed test comparison of plyr, data.table, and dplyr](http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/)
 
 ##Code Snippets
 - [Convert List to Data Frame](http://stackoverflow.com/questions/4227223/r-list-to-data-frame)
