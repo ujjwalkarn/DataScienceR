@@ -28,6 +28,7 @@ Also, check out these links for more resources on R:
 - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
 - [**MANY R PROGRAMMING TUTORIALS**](http://www.listendata.com/p/r-programming-tutorials.html)
 - [**A Handbook of Statistical Analyses Using R**](https://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_introduction_to_R.pdf), Find Other Chapters
+- [**Cookbook for R **](http://www.cookbook-r.com/)
 
 ##Caret Package
 - [rf](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore)
@@ -115,8 +116,12 @@ Also, check out these links for more resources on R:
 
 ##Useful R Packages
 - [dplyr tutorial 1](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/), [dplyr tutorial 2](http://www.dataschool.io/dplyr-tutorial-part-2/)
-- [plyr, stringr, reshape2 tutorial](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555)
-- [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
+- [plyr, stringr, reshape2 tutorial](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555), [CODE](https://github.com/justmarkham/tidy-data)
+- ggplot2
+    - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
+    - [A quick introduction to ggplot()](http://www.noamross.net/blog/2012/10/5/ggplot-introduction.html)
+    - [R Graphics cookbook](http://www.cookbook-r.com/Graphs/index.html)
+    - [ggplot2 Version of Figures in “Lattice: Multivariate Data Visualization with R” ](https://learnr.wordpress.com/2009/06/28/ggplot2-version-of-figures-in-lattice-multivariate-data-visualization-with-r-part-1/)
 - [A speed test comparison of plyr, data.table, and dplyr](http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/)
 - e1071
 - data.table
