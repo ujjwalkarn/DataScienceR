@@ -135,6 +135,7 @@ Also, check out these links for more resources on R:
 - [BROOM](https://github.com/dgrtwo/broom)
 - [**plyr, stringr, reshape2 tutorial**](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555), [CODE](https://github.com/justmarkham/tidy-data)
 - dplyr
+    - [Code Files in this Repo](https://github.com/ujjwalkarn/DataScienceR/tree/master/Intro%20to%20dplyr)
     - [dplyr tutorial 1](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/), [dplyr tutorial 2](http://www.dataschool.io/dplyr-tutorial-part-2/)
     - [Do your "data janitor work" like a boss with dplyr](http://www.gettinggeneticsdone.com/2014/08/do-your-data-janitor-work-like-boss.html)
 - ggplot2
