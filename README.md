@@ -19,6 +19,7 @@ Also, check out these links for more resources on R:
 - [Implementation of 17 classification algorithms in R](http://www.datasciencecentral.com/profiles/blogs/implemetation-of-17-classification-algorithms-in-r)
 - [Cohort Analysis and LifeCycle Grids mixed segmentation with R](http://analyzecore.com/2015/04/01/cohort-analysis-and-lifecycle-grids-mixed-segmentation-with-r/)
 - [Using R and Tableau](http://www.tableau.com/learn/whitepapers/using-r-and-tableau)
+- [**COMPREHENSIVE VIEW ON CRAN PACKAGES**](http://www.docfoc.com/cran-pdf)
 
 ##QUESTIONS
 - [**In R, why is bracket better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
