@@ -70,6 +70,7 @@ Also, check out these links for more resources on R:
 - [Components of Time Series Data](https://www.linkedin.com/pulse/component-time-series-data-jeffrey-strickland-ph-d-cmsp)
 - [Unobserved Component Models using R](https://www.linkedin.com/pulse/unobserved-component-models-r-jeffrey-strickland-ph-d-cmsp)
 - [The Holt-Winters Forecasting Method](http://webarchive.nationalarchives.gov.uk/20080726235635/http://statistics.gov.uk/iosmethodology/downloads/Annex_B_The_Holt-Winters_forecasting_method.pdf)
+- [**CRAN Task View: Time Series Analysis**](https://cran.r-project.org/web/views/TimeSeries.html)
 
 ##Bayesian Inference
 - [Packages for Bayesian Inference](https://github.com/ujjwalkarn/awesome-R#bayesian)
