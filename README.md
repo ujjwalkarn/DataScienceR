@@ -65,8 +65,9 @@ Also, check out these links for more resources on R:
 - [Use of freqparcoord for Regression Diagnostics](http://www.r-bloggers.com/use-of-freqparcoord-for-regression-diagnostics/)
 
 ##Time Series Analysis
-- [Time Series Forecasting (Online Book)](https://www.otexts.org/fpp)
+- [**Time Series Forecasting (Online Book)**](https://www.otexts.org/fpp)
 - [**A Little Book of Time Series Analysis in R**](http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/src/timeseries.html)
+- [Quick R: Time Series and Forecasting](http://www.statmethods.net/advstats/timeseries.html)
 - [Components of Time Series Data](https://www.linkedin.com/pulse/component-time-series-data-jeffrey-strickland-ph-d-cmsp)
 - [Unobserved Component Models using R](https://www.linkedin.com/pulse/unobserved-component-models-r-jeffrey-strickland-ph-d-cmsp)
 - [The Holt-Winters Forecasting Method](http://webarchive.nationalarchives.gov.uk/20080726235635/http://statistics.gov.uk/iosmethodology/downloads/Annex_B_The_Holt-Winters_forecasting_method.pdf)
