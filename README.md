@@ -119,6 +119,8 @@ Also, check out these links for more resources on R:
 - [Text mining tools techniques and applications](http://slidegur.com/doc/1830649/text-mining)
 - [Text Mining: Overview,Applications and Issues ](http://www3.cs.stonybrook.edu/~cse634/G8present.pdf)
 - [**Text Mining pdf**](http://www3.cs.stonybrook.edu/~cse634/presentations/TextMining.pdf)
+- [Text Mining Another pdf](http://www.stat.columbia.edu/~madigan/W2025/notes/IntroTextMining.pdf)
+- [Good PPT](http://studylib.net/doc/5800473/topic7-textmining)
 
 ##Visualisation
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
