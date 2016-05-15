@@ -4,6 +4,7 @@ Also, check out these links for more resources on R:
 
 ##General Stuff
 - [**awesome-R**](https://github.com/qinwf/awesome-R)
+- [R bloggers](http://www.r-bloggers.com/)
 - [R vs Python](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 - [**R Resources GitHub**](https://github.com/binga/DataScienceArsenal/blob/master/r-resources.md)
 - [Awesome R resources](https://github.com/ujjwalkarn/awesome-R)
@@ -115,8 +116,11 @@ Also, check out these links for more resources on R:
 - [Using R for Biomedical Statistics (Online Book)](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/src/biomedicalstats.html)
 
 ##Useful R Packages
-- [dplyr tutorial 1](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/), [dplyr tutorial 2](http://www.dataschool.io/dplyr-tutorial-part-2/)
-- [plyr, stringr, reshape2 tutorial](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555), [CODE](https://github.com/justmarkham/tidy-data)
+- [BROOM](https://github.com/dgrtwo/broom)
+- [**plyr, stringr, reshape2 tutorial**](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555), [CODE](https://github.com/justmarkham/tidy-data)
+- dplyr
+    - [dplyr tutorial 1](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/), [dplyr tutorial 2](http://www.dataschool.io/dplyr-tutorial-part-2/)
+    - [Do your "data janitor work" like a boss with dplyr](http://www.gettinggeneticsdone.com/2014/08/do-your-data-janitor-work-like-boss.html)
 - ggplot2
     - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
     - [A quick introduction to ggplot()](http://www.noamross.net/blog/2012/10/5/ggplot-introduction.html)
