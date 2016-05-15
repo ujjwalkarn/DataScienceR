@@ -115,6 +115,10 @@ Also, check out these links for more resources on R:
 - [Adding stopwords in R tm](http://stackoverflow.com/questions/18446408/adding-stopwords-in-r-tm)
 - [Text Mining](http://www.r-bloggers.com/text-mining/)
 - [Word Stemming in R](http://www.omegahat.net/Rstem/stemming.pdf)
+- [**Classification of Documents using Text Mining Package “tm”**](http://web.letras.up.pt/bhsmaia/EDV/apresentacoes/Bradzil_Classif_withTM.pdf)
+- [Text mining tools techniques and applications](http://slidegur.com/doc/1830649/text-mining)
+- [Text Mining: Overview,Applications and Issues ](http://www3.cs.stonybrook.edu/~cse634/G8present.pdf)
+- [**Text Mining pdf**](http://www3.cs.stonybrook.edu/~cse634/presentations/TextMining.pdf)
 
 ##Visualisation
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
