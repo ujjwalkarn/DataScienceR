@@ -50,6 +50,9 @@ Also, check out these links for more resources on R:
 - [Visualizing Neural Nets in R](https://beckmw.wordpress.com/2013/11/14/visualizing-neural-networks-in-r-update/)
 - [nnet package](http://stackoverflow.com/questions/21788817/r-nnet-with-a-simple-example-of-2-classes-with-2-variables)
 
+##Using R for Multivariate Analysis
+- [Little Book of R for Multivariate Analysis!](http://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/)
+
 ##Time Series Analysis
 - [Time Series Forecasting (Online Book)](https://www.otexts.org/fpp)
 - [Time Series Analysis in R](http://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/src/timeseries.html)
