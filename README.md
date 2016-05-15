@@ -22,6 +22,7 @@ Also, check out these links for more resources on R:
 - [**Subsetting Data**](http://www.statmethods.net/management/subset.html)
 - [**Quickly reading very large tables as dataframes in R**](http://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes-in-r)
 - [**Using R to show data**](http://www.sr.bham.ac.uk/~ajrs/R/r-show_data.html)
+- [How can I view the source code for a function?](http://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function?lq=1)
 
 ##Learning R
 - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
@@ -59,6 +60,8 @@ Also, check out these links for more resources on R:
 
 ##Using R for Multivariate Analysis
 - [Little Book of R for Multivariate Analysis!](http://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/)
+- [THE FREQPARCOORD PACKAGE FOR MULTIVARIATE VISUALIZATION](https://matloff.wordpress.com/2014/03/30/the-freqparcoord-package-for-multivariate-visualization/)
+- [Use of freqparcoord for Regression Diagnostics](http://www.r-bloggers.com/use-of-freqparcoord-for-regression-diagnostics/)
 
 ##Time Series Analysis
 - [Time Series Forecasting (Online Book)](https://www.otexts.org/fpp)
