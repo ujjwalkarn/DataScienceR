@@ -70,6 +70,7 @@ Also, check out these links for more resources on R:
 - [**Multinomial and Ordinal Logistic Regression in R**](http://www.analyticsvidhya.com/blog/2016/02/multinomial-ordinal-logistic-regression/)
  
 ##Sentiment Analysis
+- [Different Approaches](https://drive.google.com/open?id=0By_wg-rXnp_6U1JLNVA3cnAxZ3M)
 - [**Sentiment analysis with machine learning in R**](http://datascienceplus.com/sentiment-analysis-with-machine-learning-in-r/)
 - [**First shot: Sentiment Analysis in R**](http://andybromberg.com/sentiment-analysis/)
 - [qdap package](https://github.com/trinker/qdap), [code](http://stackoverflow.com/questions/22774913/estimating-document-polarity-using-rs-qdap-package-without-sentsplit)
