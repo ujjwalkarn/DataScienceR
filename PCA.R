@@ -54,3 +54,20 @@ plot(p5)
 
 
 --By SungHyun Kang
+
+
+##Other Code
+# run Prcomp onto the data set; since dataset is already standardized ; thus scale is False 
+pca1 =prcomp(mydata,scale=FALSE) 
+summary(pca1) 
+# scree plot on the PCA values 
+screeplot(pca1, npcs = 82, type = "lines") 
+z<-summary(pca1) 
+# Summary of the PCA output 
+z1<-z$importance 
+# Initial rotation or loadings on the PCA output 
+out2<-pca1$rotation 
+# Using varimax function to rotate the factor loadings 
+out3<-varimax(pca1$rotation) 
+
+
