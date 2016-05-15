@@ -108,6 +108,13 @@ Also, check out these links for more resources on R:
     - [error in implementation of random forest in mice r package](http://stackoverflow.com/questions/23974026/error-in-implementation-of-random-forest-in-mice-r-package)
     - [mice.impute.rf {mice}](http://www.inside-r.org/packages/cran/mice/docs/mice.impute.rf)
 
+##NLP and Text Mining
+- [**What algorithm I need to find n-grams?**](http://stackoverflow.com/questions/8161167/what-algorithm-i-need-to-find-n-grams)
+- [NLP R Tutorial](http://www.r-bloggers.com/natural-language-processing-tutorial/)
+- [Introduction to the tm Package Text Mining in R](https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf)
+- [Adding stopwords in R tm](http://stackoverflow.com/questions/18446408/adding-stopwords-in-r-tm)
+- [Text Mining](http://www.r-bloggers.com/text-mining/)
+- [Word Stemming in R](http://www.omegahat.net/Rstem/stemming.pdf)
 
 ##Visualisation
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
