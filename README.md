@@ -90,6 +90,13 @@ Also, check out these links for more resources on R:
 
 - [**vaderSentiment Paper**](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf), [**vaderSentiment code**](https://github.com/cjhutto/vaderSentiment)
 
+##Imputation
+- [**Imputation in R**](http://stackoverflow.com/questions/13114812/imputation-in-r)
+- [Imputation with Random Forests](http://stats.stackexchange.com/questions/49270/imputation-with-random-forests)
+- [How to Identify and Impute Multiple Missing Values using R](http://www.unt.edu/rss/class/Jon/Benchmarks/MissingValueImputation_JDS_Nov2010.pdf)
+- MICE
+    - [error in implementation of random forest in mice r package](http://stackoverflow.com/questions/23974026/error-in-implementation-of-random-forest-in-mice-r-package)
+    - [mice.impute.rf {mice}](http://www.inside-r.org/packages/cran/mice/docs/mice.impute.rf)
 
 
 ##Visualisation
