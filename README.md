@@ -149,3 +149,6 @@ Also, check out these links for more resources on R:
 
 ##Code Snippets
 - [Convert List to Data Frame](http://stackoverflow.com/questions/4227223/r-list-to-data-frame)
+
+##Market Basket
+- [Market Basket Analysis with R](http://www.salemmarafi.com/code/market-basket-analysis-with-r/)
