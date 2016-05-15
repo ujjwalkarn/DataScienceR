@@ -121,6 +121,7 @@ Also, check out these links for more resources on R:
 - [**Text Mining pdf**](http://www3.cs.stonybrook.edu/~cse634/presentations/TextMining.pdf)
 - [Text Mining Another pdf](http://www.stat.columbia.edu/~madigan/W2025/notes/IntroTextMining.pdf)
 - [Good PPT](http://studylib.net/doc/5800473/topic7-textmining)
+- [**Scraping Twitter and Web Data Using R**](http://www.nyu.edu/projects/politicsdatalab/localdata/workshops/twitter.pdf)
 
 ##Visualisation
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
