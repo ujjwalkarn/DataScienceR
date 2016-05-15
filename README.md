@@ -15,6 +15,7 @@ Also, check out these links for more resources on R:
 - [Baseball Research with R](http://www.hardballtimes.com/a-short-ish-introduction-to-using-r-for-baseball-research)
 - [**600 websites about R**](http://www.datasciencecentral.com/profiles/blogs/600-websites-about-r)
 - [Implementation of 17 classification algorithms in R](http://www.datasciencecentral.com/profiles/blogs/implemetation-of-17-classification-algorithms-in-r)
+- [Cohort Analysis and LifeCycle Grids mixed segmentation with R](http://analyzecore.com/2015/04/01/cohort-analysis-and-lifecycle-grids-mixed-segmentation-with-r/)
 
 ##Learning R
 - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
