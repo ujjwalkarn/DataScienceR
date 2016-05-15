@@ -17,6 +17,12 @@ Also, check out these links for more resources on R:
 - [Implementation of 17 classification algorithms in R](http://www.datasciencecentral.com/profiles/blogs/implemetation-of-17-classification-algorithms-in-r)
 - [Cohort Analysis and LifeCycle Grids mixed segmentation with R](http://analyzecore.com/2015/04/01/cohort-analysis-and-lifecycle-grids-mixed-segmentation-with-r/)
 
+##QUESTIONS
+- [**In R, why is `[` better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
+- [**Subsetting Data**](http://www.statmethods.net/management/subset.html)
+- [**Quickly reading very large tables as dataframes in R**](http://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes-in-r)
+- [**Using R to show data**](http://www.sr.bham.ac.uk/~ajrs/R/r-show_data.html)
+
 ##Learning R
 - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
 - [**MANY R PROGRAMMING TUTORIALS**](http://www.listendata.com/p/r-programming-tutorials.html)
@@ -99,6 +105,8 @@ Also, check out these links for more resources on R:
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
 - [A speed test comparison of plyr, data.table, and dplyr](http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/)
 - e1071
+- data.table
+    - [Fast summary statistics in R with data.table](http://blog.yhat.com/posts/fast-summary-statistics-with-data-dot-table.html)
 
 ##Code Snippets
 - [Convert List to Data Frame](http://stackoverflow.com/questions/4227223/r-list-to-data-frame)
