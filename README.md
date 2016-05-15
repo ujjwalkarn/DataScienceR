@@ -18,7 +18,7 @@ Also, check out these links for more resources on R:
 - [Cohort Analysis and LifeCycle Grids mixed segmentation with R](http://analyzecore.com/2015/04/01/cohort-analysis-and-lifecycle-grids-mixed-segmentation-with-r/)
 
 ##QUESTIONS
-- [**In R, why is [ better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
+- [**In R, why is bracket better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
 - [**Subsetting Data**](http://www.statmethods.net/management/subset.html)
 - [**Quickly reading very large tables as dataframes in R**](http://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes-in-r)
 - [**Using R to show data**](http://www.sr.bham.ac.uk/~ajrs/R/r-show_data.html)
@@ -27,6 +27,7 @@ Also, check out these links for more resources on R:
 ##Learning R
 - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
 - [**MANY R PROGRAMMING TUTORIALS**](http://www.listendata.com/p/r-programming-tutorials.html)
+- [**A Handbook of Statistical Analyses Using R**](https://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_introduction_to_R.pdf), Find Other Chapters
 
 ##Caret Package
 - [rf](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore)
