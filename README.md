@@ -162,6 +162,8 @@ Also, check out these links for more resources on R:
     - [Scatterplot3d – an R package for Visualizing Multivariate Data](https://cran.r-project.org/web/packages/scatterplot3d/vignettes/s3d.pdf)
     - [tm.plugin.webmining intro](https://cran.r-project.org/web/packages/tm.plugin.webmining/vignettes/ShortIntro.pdf)
     - [Solving Differential Equations in R - ODE examples](https://cran.r-project.org/web/packages/diffEq/vignettes/ODEinR.pdf)
+    - [Structural Equation Modeling With the sem Package in R](http://socserv.socsci.mcmaster.ca/jfox/Misc/sem/SEM-paper.pdf)
+    - [prettyScree - prettyGraphs](http://www.inside-r.org/packages/cran/prettyGraphs/docs/prettyScree)
 
 ##Code Snippets
 - [Convert List to Data Frame](http://stackoverflow.com/questions/4227223/r-list-to-data-frame)
