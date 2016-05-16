@@ -145,13 +145,17 @@ Also, check out these links for more resources on R:
     - [R Graphics cookbook](http://www.cookbook-r.com/Graphs/index.html)
     - [ggplot2 Version of Figures in “Lattice: Multivariate Data Visualization with R” ](https://learnr.wordpress.com/2009/06/28/ggplot2-version-of-figures-in-lattice-multivariate-data-visualization-with-r-part-1/)
 - [A speed test comparison of plyr, data.table, and dplyr](http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/)
-- e1071
-- Package ‘AppliedPredictiveModeling’
 - data.table
+    - [Introduction to the data.table package in R](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.pdf)   
     - [Fast summary statistics in R with data.table](http://blog.yhat.com/posts/fast-summary-statistics-with-data-dot-table.html)
+- Other Packages
+    - Package 'e1071'
+    - Package ‘AppliedPredictiveModeling’
+    - Package ‘FSelector’: This package provides functions for selecting attributes from a given dataset 
 
 ##Code Snippets
 - [Convert List to Data Frame](http://stackoverflow.com/questions/4227223/r-list-to-data-frame)
 
 ##Market Basket
 - [Market Basket Analysis with R](http://www.salemmarafi.com/code/market-basket-analysis-with-r/)
+- [**Step by Step**](http://dni-institute.in/blogs/market-basket-analysis-step-by-step-approach-using-r/)
