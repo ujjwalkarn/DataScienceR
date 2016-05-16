@@ -146,6 +146,7 @@ Also, check out these links for more resources on R:
     - [ggplot2 Version of Figures in “Lattice: Multivariate Data Visualization with R” ](https://learnr.wordpress.com/2009/06/28/ggplot2-version-of-figures-in-lattice-multivariate-data-visualization-with-r-part-1/)
 - [A speed test comparison of plyr, data.table, and dplyr](http://www.r-statistics.com/2013/09/a-speed-test-comparison-of-plyr-data-table-and-dplyr/)
 - e1071
+- Package ‘AppliedPredictiveModeling’
 - data.table
     - [Fast summary statistics in R with data.table](http://blog.yhat.com/posts/fast-summary-statistics-with-data-dot-table.html)
 
