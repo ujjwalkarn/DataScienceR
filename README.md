@@ -20,6 +20,8 @@ Also, check out these links for more resources on R:
 - [Cohort Analysis and LifeCycle Grids mixed segmentation with R](http://analyzecore.com/2015/04/01/cohort-analysis-and-lifecycle-grids-mixed-segmentation-with-r/)
 - [Using R and Tableau](http://www.tableau.com/learn/whitepapers/using-r-and-tableau)
 - [**COMPREHENSIVE VIEW ON CRAN PACKAGES**](http://www.docfoc.com/cran-pdf)
+- [Using R for Statistical Tables and Plotting Distributions](http://math.arizona.edu/~jwatkins/R-01.pdf)
+- [Extended Model Formulas in R: Multiple Parts and Multiple Responses](https://cran.r-project.org/web/packages/Formula/vignettes/Formula.pdf)
 
 ##QUESTIONS
 - [**In R, why is bracket better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
@@ -133,6 +135,8 @@ Also, check out these links for more resources on R:
 - [Using R for Biomedical Statistics (Online Book)](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/src/biomedicalstats.html)
 
 ##Useful R Packages
+- [**TIDY DATA HADLEY PAPER**](https://www.jstatsoft.org/article/view/v059i10)
+    - Package ‘tidyr’: tidyr is an evolution of reshape2. It's design specifically for data tidying (not general reshaping or aggregating) and works well with dplyr data pipelines.   
 - [BROOM](https://github.com/dgrtwo/broom)
 - [**plyr, stringr, reshape2 tutorial**](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555), [CODE](https://github.com/justmarkham/tidy-data)
 - dplyr
@@ -151,7 +155,13 @@ Also, check out these links for more resources on R:
 - Other Packages
     - Package 'e1071'
     - Package ‘AppliedPredictiveModeling’
+    - Package ‘stringr’: stringr is a set of simple wrappers that make R's string functions more consistent, simpler and easier to use.
+    - Package ‘stringdist’: Implements an approximate string matching version of R's native 'match' function. Can calculate various string distances based on edits (damerau-levenshtein, hamming, levenshtein, optimal sting alignment), qgrams or heuristic metrics
     - Package ‘FSelector’: This package provides functions for selecting attributes from a given dataset 
+    - [Ryacas – an R interface to the yacas computer algebra system](https://cran.r-project.org/web/packages/Ryacas/vignettes/Ryacas.pdf)
+    - [Scatterplot3d – an R package for Visualizing Multivariate Data](https://cran.r-project.org/web/packages/scatterplot3d/vignettes/s3d.pdf)
+    - [tm.plugin.webmining intro](https://cran.r-project.org/web/packages/tm.plugin.webmining/vignettes/ShortIntro.pdf)
+    - [Solving Differential Equations in R - ODE examples](https://cran.r-project.org/web/packages/diffEq/vignettes/ODEinR.pdf)
 
 ##Code Snippets
 - [Convert List to Data Frame](http://stackoverflow.com/questions/4227223/r-list-to-data-frame)
