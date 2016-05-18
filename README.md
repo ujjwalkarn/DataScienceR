@@ -213,4 +213,4 @@
 
 ##Market Basket Analysis in R
 - [Market Basket Analysis with R](http://www.salemmarafi.com/code/market-basket-analysis-with-r/)
-- [**Step by Step**](http://dni-institute.in/blogs/market-basket-analysis-step-by-step-approach-using-r/)
+- [Step by Step explanation of Market Basket](http://dni-institute.in/blogs/market-basket-analysis-step-by-step-approach-using-r/)
