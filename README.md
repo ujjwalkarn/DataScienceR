@@ -28,7 +28,7 @@
 
 ##Other Questions
 - [**In R, why is bracket better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
-- [**Subsetting Data**](http://www.statmethods.net/management/subset.html)
+- [**Subsetting Data in R**](http://www.statmethods.net/management/subset.html)
 - [**Quickly reading very large tables as dataframes in R**](http://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes-in-r)
 - [**Using R to show data**](http://www.sr.bham.ac.uk/~ajrs/R/r-show_data.html)
 - [How can I view the source code for a function?](http://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function?lq=1)
