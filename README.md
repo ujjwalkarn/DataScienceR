@@ -9,7 +9,7 @@
 - [Awesome-R Repository on GitHub](https://github.com/qinwf/awesome-R)
 - [R Reference Card: Cheatsheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 - [R bloggers: blog aggregator](http://www.r-bloggers.com/)
-- [**R Resources on  GitHub**](https://github.com/binga/DataScienceArsenal/blob/master/r-resources.md)
+- [R Resources on  GitHub](https://github.com/binga/DataScienceArsenal/blob/master/r-resources.md)
 - [Awesome R resources](https://github.com/ujjwalkarn/awesome-R)
 - [Data Mining with R](https://github.com/ujjwalkarn/Data-Mining-With-R)
 - [Rob J Hyndman's R Blog](http://robjhyndman.com/hyndsight/r/)
@@ -17,16 +17,16 @@
 - [RStudio GitHub Repo](https://github.com/rstudio/)
 - [Tidying Messy Data in R](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555)
 - [Baseball Research with R](http://www.hardballtimes.com/a-short-ish-introduction-to-using-r-for-baseball-research)
-- [**600 websites about R**](http://www.datasciencecentral.com/profiles/blogs/600-websites-about-r)
+- [600 websites about R](http://www.datasciencecentral.com/profiles/blogs/600-websites-about-r)
 - [Implementation of 17 classification algorithms in R](http://www.datasciencecentral.com/profiles/blogs/implemetation-of-17-classification-algorithms-in-r)
 - [Cohort Analysis and LifeCycle Grids mixed segmentation with R](http://analyzecore.com/2015/04/01/cohort-analysis-and-lifecycle-grids-mixed-segmentation-with-r/)
 - [Using R and Tableau](http://www.tableau.com/learn/whitepapers/using-r-and-tableau)
-- [**COMPREHENSIVE VIEW ON CRAN PACKAGES**](http://www.docfoc.com/cran-pdf)
+- [COMPREHENSIVE VIEW ON CRAN PACKAGES](http://www.docfoc.com/cran-pdf)
 - [Using R for Statistical Tables and Plotting Distributions](http://math.arizona.edu/~jwatkins/R-01.pdf)
 - [Extended Model Formulas in R: Multiple Parts and Multiple Responses](https://cran.r-project.org/web/packages/Formula/vignettes/Formula.pdf)
 - [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
-##Other Questions
+##Important Questions
 - [**In R, why is bracket better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
 - [**Subsetting Data in R**](http://www.statmethods.net/management/subset.html)
 - [**Quickly reading very large tables as dataframes in R**](http://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes-in-r)
