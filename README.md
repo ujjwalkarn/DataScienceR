@@ -8,8 +8,7 @@
 ##The R Language
 - [Awesome-R Repository on GitHub](https://github.com/qinwf/awesome-R)
 - [R Reference Card: Cheatsheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
-- [R bloggers: blog aggregator of content contributed by bloggers who write about R](http://www.r-bloggers.com/)
-- [R vs Python](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+- [R bloggers: blog aggregator](http://www.r-bloggers.com/)
 - [**R Resources on  GitHub**](https://github.com/binga/DataScienceArsenal/blob/master/r-resources.md)
 - [Awesome R resources](https://github.com/ujjwalkarn/awesome-R)
 - [Data Mining with R](https://github.com/ujjwalkarn/Data-Mining-With-R)
@@ -25,6 +24,7 @@
 - [**COMPREHENSIVE VIEW ON CRAN PACKAGES**](http://www.docfoc.com/cran-pdf)
 - [Using R for Statistical Tables and Plotting Distributions](http://math.arizona.edu/~jwatkins/R-01.pdf)
 - [Extended Model Formulas in R: Multiple Parts and Multiple Responses](https://cran.r-project.org/web/packages/Formula/vignettes/Formula.pdf)
+- [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
 ##Other Questions
 - [**In R, why is bracket better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
