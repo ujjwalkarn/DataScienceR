@@ -6,11 +6,11 @@
 - [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
 
 ##The R Language
-- [**awesome-R Repository on GitHub**](https://github.com/qinwf/awesome-R)
+- [**Awesome-R Repository on GitHub**](https://github.com/qinwf/awesome-R)
 - [**R Reference Card**](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
-- [R bloggers](http://www.r-bloggers.com/)
+- [R bloggers: blog aggregator of content contributed by bloggers who write about R](http://www.r-bloggers.com/)
 - [R vs Python](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
-- [**R Resources GitHub**](https://github.com/binga/DataScienceArsenal/blob/master/r-resources.md)
+- [**R Resources on  GitHub**](https://github.com/binga/DataScienceArsenal/blob/master/r-resources.md)
 - [Awesome R resources](https://github.com/ujjwalkarn/awesome-R)
 - [Data Mining with R](https://github.com/ujjwalkarn/Data-Mining-With-R)
 - [Rob J Hyndman's R Blog](http://robjhyndman.com/hyndsight/r/)
