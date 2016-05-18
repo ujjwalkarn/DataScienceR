@@ -5,8 +5,8 @@
 
 - [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
 
-##General Stuff
-- [**awesome-R**](https://github.com/qinwf/awesome-R)
+##The R Language
+- [**awesome-R Repository on GitHub**](https://github.com/qinwf/awesome-R)
 - [**R Reference Card**](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 - [R bloggers](http://www.r-bloggers.com/)
 - [R vs Python](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
@@ -26,7 +26,7 @@
 - [Using R for Statistical Tables and Plotting Distributions](http://math.arizona.edu/~jwatkins/R-01.pdf)
 - [Extended Model Formulas in R: Multiple Parts and Multiple Responses](https://cran.r-project.org/web/packages/Formula/vignettes/Formula.pdf)
 
-##QUESTIONS
+##Other Questions
 - [**In R, why is bracket better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
 - [**Subsetting Data**](http://www.statmethods.net/management/subset.html)
 - [**Quickly reading very large tables as dataframes in R**](http://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes-in-r)
@@ -39,8 +39,7 @@
 - [**A Handbook of Statistical Analyses Using R**](https://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_introduction_to_R.pdf), Find Other Chapters
 - [**Cookbook for R **](http://www.cookbook-r.com/)
 
-##Caret Package
-- [rf](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore)
+##Caret Package in R
 - [Ensembling Models with caret](http://stats.stackexchange.com/questions/27361/stacking-ensembling-models-with-caret)
 - [Model Training and Tuning](http://topepo.github.io/caret/training.html)
 - [Caret Model List](http://topepo.github.io/caret/modelList.html)
@@ -49,7 +48,7 @@
 - [Tutorial](https://www.r-project.org/nosvn/conferences/useR-2013/Tutorials/kuhn/user_caret_2up.pdf), [Paper](www.jstatsoft.org/article/view/v028i05/v28i05.pdf)
 - [Ensembling models with R](http://amunategui.github.io/blending-models/), [Ensembling Regression Models in R](http://stats.stackexchange.com/questions/26790/ensembling-regression-models)
 
-##Cheatsheets
+##R Cheatsheets
 - [Data Wrangling](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 - [ggplot2](https://www.rstudio.com/wp-content/uploads/2015/08/ggplot2-cheatsheet.pdf)
 - [Shiny](http://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
@@ -64,10 +63,6 @@
 - [Data Exploration and Visualisation](https://78462f86-a-e2d7344e-s-sites.googlegroups.com/a/rdatamining.com/www/docs/RDataMining-slides-data-exploration-visualization.pdf?attachauth=ANoY7cpqnCTmCv1omsIoKmefAn8q6M_j4Hizv_1enJlu3nRPIxIhzjBlf-9B_sIxMxpUx-XN5cAw74GUr18Dn0EcaiIm9MVeCtqT-2dcPNo0dfhRJvnb5J8EHKBX_w7Y6mYgb7UAoIUbjdmVGR9VCIfJf6PGQqAlupywcb1yGbT4pv61bQzOzrU4-eICfgHmORdi8YgBqscyT2ThaKHPSeGXD0dd3g08pGN3bY70MKM02ZaqarewbII91KTNH1-zmELEcvatl_sMxmGgNnIDm6MaxEWQ1pIrTQ%3D%3D&attredirects=0)
 - [Regression and Classification](https://78462f86-a-e2d7344e-s-sites.googlegroups.com/a/rdatamining.com/www/docs/RDataMining-slides-regression-classification.pdf?attachauth=ANoY7cq0yqcj_65pafTfUqHazTYvp4E4r-5OB1kLv3swVKJhVydaJ0YU5yEPiOciQC0k_P1QzO6z1vD0r9E05KU8y7Mn6NTesQOOq_mmwlMqAe7D2mnqkHZBqFT6tk2hJ3g3fK40mvfyU5ggoGMxMYn9nVhihKwcIYJy9A8zlbFo4r9a35kpTDr6jJjAw5eQwSEMe-bvT5iyZuyMS7QS-tvlgHjJ40ZGhPro7GcWXfb7qqaPeTe9NyeU7MxAy2Z_lAzxn0vSnqe6&attredirects=0)
 - [Text Mining on Twitter Data](https://78462f86-a-e2d7344e-s-sites.googlegroups.com/a/rdatamining.com/www/docs/RDataMining-slides-text-mining.pdf?attachauth=ANoY7cquEwmhHFNHxiKNhv6C2wquNdaib8A_BeTRFaGFXZ2deivENdTK-GS7mSZjermC7b_-L6KtCWhfF1ZOzOF9XaLkIaw6InCEnjdO1fWUhJFujaGwwbcbExJKEVuMmwlBX_SDUFZYgjuTbIb2llgKRMQc3Dd241HNZHTvGVuPG26vHKN_jU_WoEj7uIilRJWFTDvNrZWGWrvImWr0aCNou56qAB-zmBG_cvRS4QOQroiEetLpR7k%3D&attredirects=0)
-
-##Neural Networks in R
-- [Visualizing Neural Nets in R](https://beckmw.wordpress.com/2013/11/14/visualizing-neural-networks-in-r-update/)
-- [nnet package](http://stackoverflow.com/questions/21788817/r-nnet-with-a-simple-example-of-2-classes-with-2-variables)
 
 ##Using R for Multivariate Analysis
 - [Little Book of R for Multivariate Analysis!](http://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/)
@@ -85,8 +80,11 @@
 
 ##Bayesian Inference
 - [Packages for Bayesian Inference](https://github.com/ujjwalkarn/awesome-R#bayesian)
+- [Bayesian Inference in R: Video](https://www.youtube.com/watch?v=fiWIK7ONX3U)
+- [R and Bayesian Statistics](http://www.r-bloggers.com/r-and-bayesian-statistics/)
 
-##Machine Learning
+##Machine Learning using R
+- [Machine Learning with R](https://github.com/jhashanti/Machine-Learning-with-R)
 - [Using R for Multivariate Analysis (Online Book)](http://little-book-of-r-for-multivariate-analysis.readthedocs.org/en/latest/src/multivariateanalysis.html)
 - [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html)
 - [Machine Learning Using R (Online Book)](https://www.otexts.org/sfml)
@@ -94,6 +92,17 @@
 - [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 - [**Multinomial and Ordinal Logistic Regression in R**](http://www.analyticsvidhya.com/blog/2016/02/multinomial-ordinal-logistic-regression/)
  
+##Neural Networks in R
+- [Visualizing Neural Nets in R](https://beckmw.wordpress.com/2013/11/14/visualizing-neural-networks-in-r-update/)
+- [nnet package](http://stackoverflow.com/questions/21788817/r-nnet-with-a-simple-example-of-2-classes-with-2-variables)
+- [Fitting a neural network in R; neuralnet package](http://www.r-bloggers.com/fitting-a-neural-network-in-r-neuralnet-package/)
+- [Neural Networks with R – A Simple Example](http://gekkoquant.com/2012/05/26/neural-networks-with-r-simple-example/)
+- [NeuralNetTools 1.0.0 now on CRAN](https://beckmw.wordpress.com/tag/neural-network/)
+- [Introduction to Neural Networks in R](http://www.louisaslett.com/Courses/Data_Mining/ST4003-Lab5-Introduction_to_Neural_Networks.pdf)
+- [Step by Step Neural Networks using R](https://bicorner.com/2015/05/13/neural-networks-using-r/)
+- [**R for Deep Learning**](http://www.parallelr.com/r-deep-neural-network-from-scratch/)
+- [Neural Networks using package neuralnet](http://www.di.fc.ul.pt/~jpn/r/neuralnets/neuralnets.html), [Paper](https://journal.r-project.org/archive/2010-1/RJournal_2010-1_Guenther+Fritsch.pdf)
+
 ##Sentiment Analysis
 - [Different Approaches](https://drive.google.com/open?id=0By_wg-rXnp_6U1JLNVA3cnAxZ3M)
 - [**Sentiment analysis with machine learning in R**](http://datascienceplus.com/sentiment-analysis-with-machine-learning-in-r/)
@@ -107,7 +116,7 @@
 
 - [**vaderSentiment Paper**](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf), [**vaderSentiment code**](https://github.com/cjhutto/vaderSentiment)
 
-##Imputation
+##Imputation in R
 - [**Imputation in R**](http://stackoverflow.com/questions/13114812/imputation-in-r)
 - [Imputation with Random Forests](http://stats.stackexchange.com/questions/49270/imputation-with-random-forests)
 - [How to Identify and Impute Multiple Missing Values using R](http://www.unt.edu/rss/class/Jon/Benchmarks/MissingValueImputation_JDS_Nov2010.pdf)
@@ -115,7 +124,7 @@
     - [error in implementation of random forest in mice r package](http://stackoverflow.com/questions/23974026/error-in-implementation-of-random-forest-in-mice-r-package)
     - [mice.impute.rf {mice}](http://www.inside-r.org/packages/cran/mice/docs/mice.impute.rf)
 
-##NLP and Text Mining
+##NLP and Text Mining in R
 - [**What algorithm I need to find n-grams?**](http://stackoverflow.com/questions/8161167/what-algorithm-i-need-to-find-n-grams)
 - [NLP R Tutorial](http://www.r-bloggers.com/natural-language-processing-tutorial/)
 - [Introduction to the tm Package Text Mining in R](https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf)
@@ -130,11 +139,16 @@
 - [Good PPT](http://studylib.net/doc/5800473/topic7-textmining)
 - [**Scraping Twitter and Web Data Using R**](http://www.nyu.edu/projects/politicsdatalab/localdata/workshops/twitter.pdf)
 
-##Visualisation
+##Visualisation in R
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
 - [SHINY EXAMPLES](https://github.com/rstudio/shiny-examples)
+- [Comprehensive Guide to Data Visualization in  R](http://www.analyticsvidhya.com/blog/2015/07/guide-data-visualization-r/)
+- [Interactive visualizations with R – a minireview](http://www.r-bloggers.com/interactive-visualizations-with-r-a-minireview/)
+- [Beginner's guide to R: Painless data visualization](http://www.computerworld.com/article/2497304/business-intelligence-beginner-s-guide-to-r-painless-data-visualization.html)
+- [Data Visualization in R with ggvis](https://www.datacamp.com/courses/ggvis-data-visualization-r-tutorial)
+- [Multiple Visualization Articles in R](http://www.r-statistics.com/tag/visualization/)
 
-##Statistics
+##Statistics in R
 - [Using R for Biomedical Statistics (Online Book)](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/src/biomedicalstats.html)
 
 ##Useful R Packages
