@@ -6,8 +6,8 @@
 - [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
 
 ##The R Language
-- [**Awesome-R Repository on GitHub**](https://github.com/qinwf/awesome-R)
-- [**R Reference Card**](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
+- [Awesome-R Repository on GitHub](https://github.com/qinwf/awesome-R)
+- [R Reference Card: Cheatsheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 - [R bloggers: blog aggregator of content contributed by bloggers who write about R](http://www.r-bloggers.com/)
 - [R vs Python](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 - [**R Resources on  GitHub**](https://github.com/binga/DataScienceArsenal/blob/master/r-resources.md)
