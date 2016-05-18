@@ -32,8 +32,33 @@
 - [**Quickly reading very large tables as dataframes in R**](http://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes-in-r)
 - [**Using R to show data**](http://www.sr.bham.ac.uk/~ajrs/R/r-show_data.html)
 - [How can I view the source code for a function?](http://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function?lq=1)
+- [How to make a great R reproducible example?](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)
+- [**R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate**](https://stackoverflow.com/questions/3505701/r-grouping-functions-sapply-vs-lapply-vs-apply-vs-tapply-vs-by-vs-aggrega)
+- [**Tricks to manage the available memory in an R session**](https://stackoverflow.com/questions/1358003/tricks-to-manage-the-available-memory-in-an-r-session)
+- [Difference between Assignment operators '=' and '<-' in R](https://stackoverflow.com/questions/1741820/assignment-operators-in-r-and)
+- [What is the difference between require() and library()?](https://stackoverflow.com/questions/5595512/what-is-the-difference-between-require-and-library)
+- [How can I view the source code for a function?](https://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function)
+
+##Common DataFrame Operations
+- [Create an empty data.frame](https://stackoverflow.com/questions/10689055/create-an-empty-data-frame)
+- [Sort a dataframe by column(s)](https://stackoverflow.com/questions/1296646/how-to-sort-a-dataframe-by-columns)
+- [Merge/Join data frames (inner, outer, left, right)](https://stackoverflow.com/questions/1299871/how-to-join-merge-data-frames-inner-outer-left-right)
+- [Drop data frame columns by name](https://stackoverflow.com/questions/4605206/drop-data-frame-columns-by-name)
+- [Remove rows with NAs in data.frame](https://stackoverflow.com/questions/4862178/remove-rows-with-nas-in-data-frame)
+- [Quickly reading very large tables as dataframes in R](https://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes-in-r)
+- [Drop factor levels in a subsetted data frame](https://stackoverflow.com/questions/1195826/drop-factor-levels-in-a-subsetted-data-frame)
+- [R list to data frame](https://stackoverflow.com/questions/4227223/r-list-to-data-frame)
+- [Convert data.frame columns from factors to characters](https://stackoverflow.com/questions/2851015/convert-data-frame-columns-from-factors-to-characters)
+- [Extracting specific columns from a data frame](https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame)
+
 
 ##Learning R
+- [**Free resources for learning R**](http://stats.stackexchange.com/questions/138/free-resources-for-learning-r)
+- Online Courses
+    - [Introduction to R for Data Science - Microsoft | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x?gclid=CLiyoPb448wCFRJxvAod-RoLsA)
+    - [Introduction to R on DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
+    - [tryR on Codeschool](http://tryr.codeschool.com/)
+- [swirl: Learn R, in R](http://swirlstats.com/)
 - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
 - [**MANY R PROGRAMMING TUTORIALS**](http://www.listendata.com/p/r-programming-tutorials.html)
 - [**A Handbook of Statistical Analyses Using R**](https://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_introduction_to_R.pdf), Find Other Chapters
@@ -113,7 +138,6 @@
 - [Packages other than sentiment](http://stackoverflow.com/questions/15194436/is-there-any-other-package-other-than-sentiment-to-do-sentiment-analysis-in-r)
 - [Sentiment Analysis and Opinion Mining](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 - [tm_term_score](http://www.inside-r.org/packages/cran/tm/docs/tm_term_score)
-
 - [**vaderSentiment Paper**](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf), [**vaderSentiment code**](https://github.com/cjhutto/vaderSentiment)
 
 ##Imputation in R
@@ -148,8 +172,13 @@
 - [Data Visualization in R with ggvis](https://www.datacamp.com/courses/ggvis-data-visualization-r-tutorial)
 - [Multiple Visualization Articles in R](http://www.r-statistics.com/tag/visualization/)
 
-##Statistics in R
+##Statistics with R
 - [Using R for Biomedical Statistics (Online Book)](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/en/latest/src/biomedicalstats.html)
+- [Elementary Statistics with R](http://www.r-tutor.com/elementary-statistics)
+- [A Hands-on Introduction to Statistics with R](https://www.datacamp.com/introduction-to-statistics)
+- [Quick R: Basic Statistics](http://www.statmethods.net/stATS/index.html)
+- [Quick R: Descriptive Statistics](http://www.statmethods.net/stats/descriptives.html)
+- [Explore Statistics with R | edX](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
 
 ##Useful R Packages
 - [**TIDY DATA HADLEY PAPER**](https://www.jstatsoft.org/article/view/v059i10)
@@ -185,6 +214,6 @@
 ##Code Snippets
 - [Convert List to Data Frame](http://stackoverflow.com/questions/4227223/r-list-to-data-frame)
 
-##Market Basket
+##Market Basket Analysis in R
 - [Market Basket Analysis with R](http://www.salemmarafi.com/code/market-basket-analysis-with-r/)
 - [**Step by Step**](http://dni-institute.in/blogs/market-basket-analysis-step-by-step-approach-using-r/)
