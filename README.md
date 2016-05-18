@@ -63,6 +63,7 @@
 - [**MANY R PROGRAMMING TUTORIALS**](http://www.listendata.com/p/r-programming-tutorials.html)
 - [**A Handbook of Statistical Analyses Using R**](https://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_introduction_to_R.pdf), Find Other Chapters
 - [**Cookbook for R **](http://www.cookbook-r.com/)
+- [Learning R in 7 simple steps](http://www.datasciencecentral.com/profiles/blogs/learning-r-in-seven-simple-steps)
 
 ##Caret Package in R
 - [Ensembling Models with caret](http://stats.stackexchange.com/questions/27361/stacking-ensembling-models-with-caret)
