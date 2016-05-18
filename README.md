@@ -47,7 +47,7 @@
 - [Remove rows with NAs in data.frame](https://stackoverflow.com/questions/4862178/remove-rows-with-nas-in-data-frame)
 - [Quickly reading very large tables as dataframes in R](https://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes-in-r)
 - [Drop factor levels in a subsetted data frame](https://stackoverflow.com/questions/1195826/drop-factor-levels-in-a-subsetted-data-frame)
-- [R list to data frame](https://stackoverflow.com/questions/4227223/r-list-to-data-frame)
+- [Convert R list to data frame](https://stackoverflow.com/questions/4227223/r-list-to-data-frame)
 - [Convert data.frame columns from factors to characters](https://stackoverflow.com/questions/2851015/convert-data-frame-columns-from-factors-to-characters)
 - [Extracting specific columns from a data frame](https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame)
 
