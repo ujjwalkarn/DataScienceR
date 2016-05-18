@@ -1,6 +1,9 @@
-This repository serves as a reference guide for several common data analysis tasks as well as some R functions and packages.
+- This repo contains a curated list of R tutorials and packages for Data Science, NLP and Machine Learning. This also serves as a reference guide for several common data analysis tasks.
 
-Also, check out these links for more resources on R:
+- For a similar list of Python tutorials for Data Science, NLP and Machine Learning, see [**this list**](https://github.com/ujjwalkarn/DataSciencePython).
+
+- For a comprehensive topic-wise list of machine learning and deep learning tutorials, codes, articles and other resources, see [**this list**](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
+
 
 ##General Stuff
 - [**awesome-R**](https://github.com/qinwf/awesome-R)
