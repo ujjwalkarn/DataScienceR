@@ -74,12 +74,12 @@
 - [Ensembling models with R](http://amunategui.github.io/blending-models/), [Ensembling Regression Models in R](http://stats.stackexchange.com/questions/26790/ensembling-regression-models)
 
 ##R Cheatsheets
-- [Data Wrangling](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
-- [ggplot2](https://www.rstudio.com/wp-content/uploads/2015/08/ggplot2-cheatsheet.pdf)
-- [Shiny](http://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
-- [devtools](https://www.rstudio.com/wp-content/uploads/2015/06/devtools-cheatsheet.pdf)
-- [markdown](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), [reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-- [Data Exploration](http://www.analyticsvidhya.com/blog/2015/10/cheatsheet-11-steps-data-exploration-with-codes/)
+- [Data Wrangling in R](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+- [ggplot2 Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/08/ggplot2-cheatsheet.pdf)
+- [Shiny Cheatsheet](http://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
+- [devtools Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/06/devtools-cheatsheet.pdf)
+- [markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), [reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- [Data Exploration Cheatsheet](http://www.analyticsvidhya.com/blog/2015/10/cheatsheet-11-steps-data-exploration-with-codes/)
 
 ##Reference Slides
 - [Awesome R Reference Card](https://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
@@ -210,9 +210,6 @@
     - [Solving Differential Equations in R - ODE examples](https://cran.r-project.org/web/packages/diffEq/vignettes/ODEinR.pdf)
     - [Structural Equation Modeling With the sem Package in R](http://socserv.socsci.mcmaster.ca/jfox/Misc/sem/SEM-paper.pdf)
     - [prettyScree - prettyGraphs](http://www.inside-r.org/packages/cran/prettyGraphs/docs/prettyScree)
-
-##Code Snippets
-- [Convert List to Data Frame](http://stackoverflow.com/questions/4227223/r-list-to-data-frame)
 
 ##Market Basket Analysis in R
 - [Market Basket Analysis with R](http://www.salemmarafi.com/code/market-basket-analysis-with-r/)
