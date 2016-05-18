@@ -38,6 +38,7 @@
 - [Difference between Assignment operators '=' and '<-' in R](https://stackoverflow.com/questions/1741820/assignment-operators-in-r-and)
 - [What is the difference between require() and library()?](https://stackoverflow.com/questions/5595512/what-is-the-difference-between-require-and-library)
 - [How can I view the source code for a function?](https://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function)
+- [How can I change fonts for graphs in R?](https://stackoverflow.com/questions/27689222/changing-fonts-for-graphs-in-r/)
 
 ##Common DataFrame Operations
 - [Create an empty data.frame](https://stackoverflow.com/questions/10689055/create-an-empty-data-frame)
