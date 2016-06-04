@@ -27,6 +27,7 @@
 - [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/?utm_content=buffer55639&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 - [**R for Data Science: Hadley Wickham's Book**](http://r4ds.had.co.nz/)
 - [**R Study Group at UPenn**](https://www.ling.upenn.edu/~joseff/rstudy/index.html)
+- [Program-Defined Functions in R](http://dni-institute.in/blogs/extracting-data-from-facebook-using-r/)
 
 ##Important Questions
 - [**In R, why is bracket better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
