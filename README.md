@@ -196,6 +196,7 @@
     - [Do your "data janitor work" like a boss with dplyr](http://www.gettinggeneticsdone.com/2014/08/do-your-data-janitor-work-like-boss.html)
 - ggplot2
     - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
+    - [Good Tutorial!](https://github.com/jennybc/ggplot2-tutorial)
     - [A quick introduction to ggplot()](http://www.noamross.net/blog/2012/10/5/ggplot-introduction.html)
     - [R Graphics cookbook](http://www.cookbook-r.com/Graphs/index.html)
     - [ggplot2 Version of Figures in “Lattice: Multivariate Data Visualization with R” ](https://learnr.wordpress.com/2009/06/28/ggplot2-version-of-figures-in-lattice-multivariate-data-visualization-with-r-part-1/)
