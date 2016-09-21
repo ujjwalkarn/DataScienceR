@@ -32,6 +32,7 @@
 ##Important Questions
 - [**In R, why is bracket better than `subset`?**](http://stackoverflow.com/questions/9860090/in-r-why-is-better-than-subset)
 - [**Subsetting Data in R**](http://www.statmethods.net/management/subset.html)
+- [**Vectorization in R: Why?**](http://www.noamross.net/blog/2014/4/16/vectorization-in-r--why.html)
 - [**Quickly reading very large tables as dataframes in R**](http://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes-in-r)
 - [**Using R to show data**](http://www.sr.bham.ac.uk/~ajrs/R/r-show_data.html)
 - [How can I view the source code for a function?](http://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function?lq=1)
@@ -58,6 +59,8 @@
 
 ##Learning R
 - [**Free resources for learning R**](http://stats.stackexchange.com/questions/138/free-resources-for-learning-r)
+- [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/)
+- [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
 - Online Courses
     - [Introduction to R for Data Science - Microsoft | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x?gclid=CLiyoPb448wCFRJxvAod-RoLsA)
     - [Introduction to R on DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
@@ -197,6 +200,7 @@
 - ggplot2
     - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
     - [Good Tutorial!](https://github.com/jennybc/ggplot2-tutorial)
+    - [Introduction to ggplot2](https://speakerdeck.com/karthik/introduction-to-ggplot2), [GitHub](https://github.com/karthik/ggplot-lecture)
     - [A quick introduction to ggplot()](http://www.noamross.net/blog/2012/10/5/ggplot-introduction.html)
     - [R Graphics cookbook](http://www.cookbook-r.com/Graphs/index.html)
     - [ggplot2 Version of Figures in “Lattice: Multivariate Data Visualization with R” ](https://learnr.wordpress.com/2009/06/28/ggplot2-version-of-figures-in-lattice-multivariate-data-visualization-with-r-part-1/)
