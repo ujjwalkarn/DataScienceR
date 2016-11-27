@@ -1,3 +1,4 @@
+#code taken from http://www.codemiles.com/r-examples/topic-modeling-using-lda-in-r-t11119.html
 require("ggplot2")
 require("grid")
 require("plyr")
