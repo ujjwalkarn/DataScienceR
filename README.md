@@ -174,6 +174,7 @@
 ##Visualisation in R
 - [ggplot2 tutorial](http://www.ling.upenn.edu/~joseff/avml2012/)
 - [SHINY EXAMPLES](https://github.com/rstudio/shiny-examples)
+- [**Top 50 ggplot2 Visualizations**](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 - [Comprehensive Guide to Data Visualization in  R](http://www.analyticsvidhya.com/blog/2015/07/guide-data-visualization-r/)
 - [Interactive visualizations with R – a minireview](http://www.r-bloggers.com/interactive-visualizations-with-r-a-minireview/)
 - [Beginner's guide to R: Painless data visualization](http://www.computerworld.com/article/2497304/business-intelligence-beginner-s-guide-to-r-painless-data-visualization.html)
