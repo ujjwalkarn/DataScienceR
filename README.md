@@ -124,6 +124,7 @@
 - [Linear Regression and Regularization Code](http://rpubs.com/justmarkham/linear-regression-salary)
 - [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 - [**Multinomial and Ordinal Logistic Regression in R**](http://www.analyticsvidhya.com/blog/2016/02/multinomial-ordinal-logistic-regression/)
+- [**Evaluating Logistic Regression Models in R**](https://www.r-bloggers.com/evaluating-logistic-regression-models/)
  
 ##Neural Networks in R
 - [Visualizing Neural Nets in R](https://beckmw.wordpress.com/2013/11/14/visualizing-neural-networks-in-r-update/)
