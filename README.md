@@ -10,6 +10,7 @@
     - [tryR on Codeschool](http://tryr.codeschool.com/)
     - [Introduction to R for Data Science - Microsoft | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x?gclid=CLiyoPb448wCFRJxvAod-RoLsA)
     - [Introduction to R on DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
+    - [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
 - [**Free resources for learning R**](http://stats.stackexchange.com/questions/138/free-resources-for-learning-r)
 - [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/)
 - [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
@@ -17,7 +18,7 @@
 - [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
 - [**MANY R PROGRAMMING TUTORIALS**](http://www.listendata.com/p/r-programming-tutorials.html)
 - [**A Handbook of Statistical Analyses Using R**](https://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_introduction_to_R.pdf), Find Other Chapters
-- [**Cookbook for R **](http://www.cookbook-r.com/)
+- [**Cookbook for R**](http://www.cookbook-r.com/)
 - [Learning R in 7 simple steps](http://www.datasciencecentral.com/profiles/blogs/learning-r-in-seven-simple-steps)
 
 ## More Resources
