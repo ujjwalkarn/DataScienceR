@@ -90,6 +90,8 @@
 - [devtools Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/06/devtools-cheatsheet.pdf)
 - [markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), [reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 - [Data Exploration Cheatsheet](http://www.analyticsvidhya.com/blog/2015/10/cheatsheet-11-steps-data-exploration-with-codes/)
+- [data.table Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/datatable_Cheat_Sheet_R.pdf)
+- [xts Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/xts_Cheat_Sheet_R.pdf)
 
 ## Reference Slides
 - [R Reference Card](https://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
