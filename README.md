@@ -12,6 +12,7 @@
     - [Introduction to R on DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
     - [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
 - [**Free resources for learning R**](http://stats.stackexchange.com/questions/138/free-resources-for-learning-r)
+- [**Programming Community Curated Resources for learning R**](https://hackr.io/tutorials/learn-r)
 - [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/)
 - [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
 - [swirl: Learn R, in R](http://swirlstats.com/)
