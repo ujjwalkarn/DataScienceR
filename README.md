@@ -9,7 +9,7 @@
 - Online Courses
     - [tryR on Codeschool](http://tryr.codeschool.com/)
     - [Introduction to R for Data Science - Microsoft | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x?gclid=CLiyoPb448wCFRJxvAod-RoLsA)
-    - [Introduction to R on DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
+    - [Data Scientist with R on DataCamp](https://www.datacamp.com/tracks/data-scientist-with-r)
     - [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
 - [**Free resources for learning R**](http://stats.stackexchange.com/questions/138/free-resources-for-learning-r)
 - [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/)
