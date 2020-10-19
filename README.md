@@ -28,7 +28,7 @@
 - [R Resources on  GitHub](https://github.com/binga/DataScienceArsenal/blob/master/r-resources.md)
 - [Awesome R resources](https://github.com/ujjwalkarn/awesome-R)
 - [Data Mining with R](https://github.com/ujjwalkarn/Data-Mining-With-R)
-- [Rob J Hyndman's R Blog](http://robjhyndman.com/hyndsight/r/)
+- [Rob J Hyndman's R Blog](https://robjhyndman.com/categories/r/)
 - [Simple R Tricks and Tools](http://robjhyndman.com/hyndsight/simpler/) [(Video)](https://www.youtube.com/watch?v=Toc__W7L2Qo)
 - [RStudio GitHub Repo](https://github.com/rstudio/)
 - [Tidying Messy Data in R](http://www.dataschool.io/tidying-messy-data-in-r/) [Video](https://vimeo.com/33727555)
