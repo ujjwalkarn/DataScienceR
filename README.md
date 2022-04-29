@@ -20,6 +20,7 @@
 - [**A Handbook of Statistical Analyses Using R**](https://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_introduction_to_R.pdf), Find Other Chapters
 - [**Cookbook for R**](http://www.cookbook-r.com/)
 - [Learning R in 7 simple steps](http://www.datasciencecentral.com/profiles/blogs/learning-r-in-seven-simple-steps)
+- [Tidyverse Koans: A Gentle Introduction to R for Economists (and other applied researchers)](https://github.com/cobriant/tidyverse_koans#readme)
 
 ## More Resources
 - [Awesome-R Repository on GitHub](https://github.com/qinwf/awesome-R)
