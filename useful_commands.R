@@ -38,12 +38,8 @@ summary(dataframe$whatevercolumn)
 #Check if data is normal
 shapiro.test(x, y)
 
-#ANOVA 1-way
+#ANOVA
 anova = aov(data~factor)
-summary(anova)
-
-#ANOVA 2-way
-anova = aov(data~factor*factor)
 summary(anova)
 
 #After running anova you can see the pair-wise comparison
