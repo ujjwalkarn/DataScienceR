@@ -7,7 +7,7 @@
 
 ## Learning R
 - Online Courses
-    - [tryR on Codeschool](http://tryr.codeschool.com/)
+    - [Learn R on Coddy](https://coddy.tech/landing/r)
     - [Introduction to R for Data Science - Microsoft | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x?gclid=CLiyoPb448wCFRJxvAod-RoLsA)
     - [Introduction to R on DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
     - [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
